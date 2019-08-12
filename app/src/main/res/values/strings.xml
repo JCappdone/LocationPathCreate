@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoovleePathLocator</string>
+    <string name="google_map_api_key">AIzaSyCoHKgByTTu0RQAlQGi7IfRZ2z9t8b4ES8</string>
+    <string name="travel_distance">Travel Distance</string>
+</resources>
